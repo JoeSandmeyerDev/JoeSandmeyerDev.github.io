@@ -10,3 +10,5 @@ description: "The PDF button above will download a standard, single page resume 
 toc:
   sidebar: left
 ---
+
+The PDF button above will download a standard, single page resume to highlight recent experience. You can download a more thorough, [four page resume from this link](/assets/pdf/example_pdf.pdf).
