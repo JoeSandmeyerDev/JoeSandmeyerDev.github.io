@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-We serve our customers, not the other way around. Ditch whatever fails to build relationships and ROI.
+subtitle: We serve our customers, not the other way around. Ditch whatever fails to build relationships and ROI.
 
 profile:
   align: right

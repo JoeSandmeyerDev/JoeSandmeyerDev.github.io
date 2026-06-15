@@ -34,7 +34,6 @@ cv:
         start_date: 1933
         end_date: 1933
 
-
     Volunteer:
       - company: Home And Hope
         position: Overnight Host
