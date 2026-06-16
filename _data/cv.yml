@@ -18,6 +18,25 @@ cv:
     countryCode: US
 
   sections:
+    Skills:
+      - name: Programming Languages
+        keywords: "TypeScript, JavaScript, Python, C#, SQL, Objective-C, C++, Java (Android, J2ME), Pascal"
+      - name: Web & Cloud
+        keywords: "React, Node.js, Cloudflare Workers (serverless edge), AWS, Elasticsearch"
+      - name: APIs & Integration
+        keywords: "REST/JSON:API, OAuth 2.0, OpenAPI, webhook/event integrations, SDK design"
+      - name: Domains
+        keywords:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration"
+      - name: Craft
+        keywords:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
+
+    Experience:
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
+
     Education:
       - institution: University of California, San Diego
         location: San Diego, California
@@ -27,41 +46,8 @@ cv:
         start_date: 1979
         end_date: 1985
 
-    Experience:
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-
-    Volunteer:
-      - company: Home And Hope
-        position: Overnight Host
-        location: San Mateo, California
-        start_date: 2010
-        end_date: 2018
-        summary: Homeless Shelter for Families. Recently merged with LifeMoves.org.
-        highlights:
-          - "Led children's activities"
-          - "Prepared Meals"
-          - "Served as overnight host and emergency backup"
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
+    Spoken Languages:
       - name: English
         summary: "Native speaker"
       - name: Spanish
         summary: "Basic proficiency"
-
-    Interests:
-      - name: Tinkering
-        icon: fa-microchip fa-tag
-      - name: Sailing
-        icon: fa-flag-o
-      - name: Bikepacking
-        icon: fa-bicycle

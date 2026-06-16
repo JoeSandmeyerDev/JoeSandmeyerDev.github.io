@@ -1,16 +1,27 @@
 ---
 layout: page
 title: Home & Hope
-description: Homeless Shelter for Families -- Recently merged with <a href='https://lifemoves.org/home-hope-is-now-lifemoves/'><u>LifeMoves.org</u></a>.
+description: Homeless Shelter for Families
 img: assets/img/Proj_HomeAndHope_Meal.jpg
 importance: 1
 category: extracurricular
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+
+Home And Hope
+
+Recently merged with <a href='https://lifemoves.org/home-hope-is-now-lifemoves/'><u>LifeMoves.org</u></a>.
+ 
+        position: Overnight Host
+        location: San Mateo, California
+        start_date: 2010
+        end_date: 2018
+        summary: Homeless Shelter for Families. Recently merged with LifeMoves.org.
+        highlights:
+          - "Led children's activities"
+          - "Prepared Meals"
+          - "Served as overnight host and emergency backup"
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
