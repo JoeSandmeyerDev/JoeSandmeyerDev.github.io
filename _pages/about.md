@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: We serve our customers, not the other way around. Ditch whatever fails to build relationships and ROI.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Software engineer and developer-experience practitioner with 35+ years spanning graphics and game programming, AI, mobile, enterprise SaaS, and Web3. Build SDKs, REST APIs, technical documentation, and runnable sample code that turn complex platforms into approachable developer experiences. Seeking a hands-on IC or lead role in Developer Relations, Developer Experience, Technical Writing, or Solutions Engineering — full-time or part-time.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
