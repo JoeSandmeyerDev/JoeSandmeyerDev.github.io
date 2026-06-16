@@ -59,8 +59,8 @@ cv:
         summary: "Basic proficiency"
 
     Interests:
-      - name: Electromechanical Tinkering
-        icon: fa-microchip
+      - name: Tinkering
+        icon: fa-microchip fa-tag
       - name: Sailing
         icon: fa-flag-o
       - name: Bikepacking

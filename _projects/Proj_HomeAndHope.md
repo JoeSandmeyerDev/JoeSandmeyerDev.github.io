@@ -1,10 +1,10 @@
 ---
 layout: page
-title: proj 02
-description: with background image
-img: assets/img/12.jpg
+title: Home & Hope
+description: Homeless Shelter for Families -- Recently merged with <a href='https://lifemoves.org/home-hope-is-now-lifemoves/'><u>LifeMoves.org</u></a>.
+img: assets/img/Proj_HomeAndHope_Meal.jpg
 importance: 1
-category: work
+category: extracurricular
 related_publications: true
 ---
 
@@ -23,13 +23,13 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Proj_HomeAndHope_Meal.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Proj_HomeAndHope_OptyCtr.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Proj_HomeAndHope_FoodDrive.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
