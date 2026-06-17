@@ -43,6 +43,12 @@ cv:
         start_date: 1933-05
         end_date: 1933-02
 
+      - company: National Conference on Citizenship
+        position: Technical Project Manager
+        location: Washington DC, US
+        start_date: 1933-05
+        end_date: 1933-02
+
     Education:
       - institution: University of California, San Diego
         location: San Diego, California
