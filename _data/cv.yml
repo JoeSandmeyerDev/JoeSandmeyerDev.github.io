@@ -37,6 +37,12 @@ cv:
         start_date: 1933-05
         end_date: 1933-02
 
+      - company: Vatom
+        position: Developer Relations Lead
+        location: Washington DC, US
+        start_date: 1933-05
+        end_date: 1933-02
+
     Education:
       - institution: University of California, San Diego
         location: San Diego, California

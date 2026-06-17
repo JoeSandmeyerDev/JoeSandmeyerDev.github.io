@@ -32,7 +32,7 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
 
 <div class="row">
   <a href='assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf'>
-    <img src="assets/img/Proj_HomeAndHope_InterimHousingModel.jpg" title="Interim Housing Model" style="width:40%"/>
+    <img src="../assets/img/Proj_HomeAndHope_InterimHousingModel.jpg" title="Interim Housing Model" style="width:40%"/>
   </a>
 </div>
 <div class="caption">

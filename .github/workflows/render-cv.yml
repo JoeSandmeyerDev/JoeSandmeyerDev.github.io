@@ -24,9 +24,11 @@ jobs:
           python-version: "3.12"
       - name: Install RenderCV
         run: |
+          echo "Try to install RenderCV"
           pip install -r requirements.txt
       - name: RenderCV
         run: |
+          echo "Try to run RenderCV"
           cv_file=$(find _data  -maxdepth 1 -type f \( -name "cv.yaml" -o -name "cv.yml" \))
           if [ -z "$cv_file" ]; then
             echo "No cv.yml file found!"
