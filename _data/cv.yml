@@ -1,6 +1,6 @@
 cv:
   name: Joe Sandmeyer
-  label: SaaS DevRel Expert
+  # label: SaaS DevRel Expert
   email: joe.sandmeyer@gmail.com
   location: Washington DC Metro Area
   image: ""
@@ -26,7 +26,7 @@ cv:
       - name: APIs & Integration
         keywords: "REST/JSON:API, OAuth 2.0, OpenAPI, webhook/event integrations, SDK design"
       - name: Domains
-        keywords:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration"
+        keywords:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, Agentic AI, Vector Relevance Sorting, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration, Project Management"
       - name: Craft
         keywords:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
@@ -46,7 +46,7 @@ cv:
         start_date: 1979
         end_date: 1985
 
-    Spoken Languages:
+    Languages:
       - name: English
         summary: "Native speaker"
       - name: Spanish
