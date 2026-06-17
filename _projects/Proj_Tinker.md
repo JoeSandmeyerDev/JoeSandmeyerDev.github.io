@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home & Hope
-description: Homeless Shelter for Families
+title: Tinkering
+description: Lifestyle Hardware Hacks 
 img: assets/img/Proj_Tinker_AltPower.jpg
 importance: 2
 category: extracurricular

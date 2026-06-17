@@ -32,14 +32,16 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+      {% include figure.liquid loading="eager" path="assets/img/256x1.png" title="space" class="img-fluid rounded z-depth-1" %}
   </div>
   <a href='assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf'>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Proj_HomeAndHope_InterimHousingModel.jpg" title="Interim Housing Model" class="img-fluid rounded z-depth-1" %}
     </div>
   </a>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/256x1.png" title="space" class="img-fluid rounded z-depth-1" %}
+  </div>
   <div class="col-sm mt-3 mt-md-0">
     &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
