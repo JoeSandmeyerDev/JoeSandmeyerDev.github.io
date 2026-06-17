@@ -34,8 +34,8 @@ cv:
       - company: Yellow Dog Software
         position: Developer Relations Manager
         location: Washington DC, US
-        start_date: 1933
-        end_date: 1933
+        start_date: 1933-05
+        end_date: 1933-02
 
     Education:
       - institution: University of California, San Diego
