@@ -3,51 +3,44 @@ cv:
   # label: SaaS DevRel Expert
   email: joe.sandmeyer@gmail.com
   location: Washington DC Metro Area
-  summary: Developer Relations / Developer Experience / Solutions Engineering
+  photo:
   headline: Developer Relations / Developer Experience / Solutions Engineering
 
   social_networks:
     - network: LinkedIn
       username: joesandmeyer
 
-  address:
-    street: 4314 Clagett Road
-    city: University Park
-    region:
-    postalCode: MD 20782
-    countryCode: US
-
   sections:
     Skills:
-      - name: Programming Languages
-        keywords: "TypeScript, JavaScript, Python, C#, SQL, Objective-C, C++, Java (Android, J2ME), Pascal"
-      - name: Web & Cloud
-        keywords: "React, Node.js, Cloudflare Workers (serverless edge), AWS, Elasticsearch"
-      - name: APIs & Integration
-        keywords: "REST/JSON:API, OAuth 2.0, OpenAPI, webhook/event integrations, SDK design"
-      - name: Domains
-        keywords:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, Agentic AI, Vector Relevance Sorting, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration, Project Management"
-      - name: Craft
-        keywords:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
+      - label: Programming Languages
+        details: "TypeScript, JavaScript, Python, C#, SQL, Objective-C, C++, Java (Android, J2ME), Pascal"
+      - label: Web & Cloud
+        details: "React, Node.js, Cloudflare Workers (serverless edge), AWS, Elasticsearch"
+      - label: APIs & Integration
+        details: "REST/JSON:API, OAuth 2.0, OpenAPI, webhook/event integrations, SDK design"
+      - label: Domains
+        details:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, Agentic AI, Vector Relevance Sorting, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration, Project Management"
+      - label: Craft
+        details:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
     Experience:
       - company: Yellow Dog Software
         position: Developer Relations Manager
         location: Washington DC, US
         start_date: 1933-05
-        end_date: 1933-02
+        end_date: 1933-07
 
       - company: Vatom
         position: Developer Relations Lead
         location: Washington DC, US
         start_date: 1933-05
-        end_date: 1933-02
+        end_date: 1933-07
 
       - company: National Conference on Citizenship
         position: Technical Project Manager
         location: Washington DC, US
         start_date: 1933-05
-        end_date: 1933-02
+        end_date: 1933-07
 
     Education:
       - institution: University of California, San Diego
