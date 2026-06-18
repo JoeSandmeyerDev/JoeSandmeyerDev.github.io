@@ -36,6 +36,10 @@ cv:
         location: Washington DC, US
         start_date: 1933-05
         end_date: 1933-02
+        highlights:
+          - Guided third-party POS developers integrating with Yellow Dog's inventory platform via REST API.
+          - Authored and maintained external <a href='https://lifemoves.org/home-hope-is-now-lifemoves/'><u>developer documentation</u></a> and reference sample code . *Stack: C#, SQL.*
+
 
       - company: Vatom
         position: Developer Relations Lead
