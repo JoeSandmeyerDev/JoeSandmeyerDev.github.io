@@ -38,7 +38,7 @@ cv:
         end_date: 2026-04
         highlights:
           - Guided third-party POS developers integrating with Yellow Dog's inventory platform via REST API.
-          - "Authored and maintained external <a href='https://developer.yellowdogsoftware.com/rest/user-guide'><u>developer documentation</u></a> and reference sample code . *Stack: C#, JavaScript, SQL.*""
+          - "Authored and maintained external <a href='https://developer.yellowdogsoftware.com/rest/user-guide'><u>developer documentation</u></a> and reference sample code . *Stack: C#, JavaScript, SQL.*"
 
       - company: Vatom
         position: Developer Relations Lead
