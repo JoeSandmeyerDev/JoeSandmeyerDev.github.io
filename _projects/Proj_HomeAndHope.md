@@ -40,7 +40,7 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
     </div>
   </a>
   <div class="col-sm mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/1024x1024.jpg" title="space" class="img-fluid z-depth-1" %}
+      {% include figure.liquid loading="eager" path="assets/img/Proj_HomeAndHope_InterimHousingModel.jpg" title="Interim Housing Model" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">

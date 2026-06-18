@@ -34,24 +34,28 @@ cv:
       - company: Yellow Dog Software
         position: Developer Relations Manager
         location: Washington DC, US
-        start_date: 1933-05
-        end_date: 1933-02
+        start_date: 2024-07
+        end_date: 2026-04
         highlights:
           - Guided third-party POS developers integrating with Yellow Dog's inventory platform via REST API.
-          - Authored and maintained external <a href='https://lifemoves.org/home-hope-is-now-lifemoves/'><u>developer documentation</u></a> and reference sample code . *Stack: C#, SQL.*
-
+          - "Authored and maintained external <a href='https://developer.yellowdogsoftware.com/rest/user-guide'><u>developer documentation</u></a> and reference sample code . *Stack: C#, JavaScript, SQL.*""
 
       - company: Vatom
         position: Developer Relations Lead
         location: Washington DC, US
-        start_date: 1933-05
-        end_date: 1933-02
+        start_date: 2022-11
+        end_date: 2024-07
+        highlights:
+          - Owned developer-facing documentation and sample code for Web3 SDKs, APIs, and tooling covering identity, wallets, and 3D virtual spaces.
+          - Acted as primary technical point of contact for external developer partners. *Stack: TypeScript, JavaScript, React.*
 
       - company: National Conference on Citizenship
         position: Technical Project Manager
         location: Washington DC, US
-        start_date: 1933-05
-        end_date: 1933-02
+        start_date: 2022-02
+        end_date: 2023-01
+        highlights:
+          - Managed remote software work on ETL pipelines and the Junkipedia disinformation-tracking platform; coordinated documentation against the public Junkipedia API. *Stack: Python, Ruby on Rails, Elasticsearch, AWS.*
 
     Education:
       - institution: University of California, San Diego
