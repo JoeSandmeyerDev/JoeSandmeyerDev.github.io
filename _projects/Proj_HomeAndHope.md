@@ -46,5 +46,3 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
     Interim Housing Model (click for PDF)
   </a>
 </div>
-
-v14
