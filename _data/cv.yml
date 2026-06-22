@@ -37,7 +37,7 @@ cv:
         start_date: 2024-03
         end_date: present
         highlights:
-          - Worked part-time, when available, comparing and critiquing generated code
+          - Diagnosed and reported flaws in AI generated code (part-time)
           - Built small projects to challenge tool-using agentic AI models
           - "*Stack: Python, JavaScript*"
         
@@ -108,10 +108,10 @@ cv:
         highlights:
           - Integrated the OpenFeint mobile game backend SDKs into mobile games for partners
           - Built and led a 10 person Sales Engineering team to promote and support SDKs used by thousands of developers in mobile games for over 25M end users.
-          - *Stack: Objective-C (iOS), Java (Android).*
+          - "*Stack: Objective-C (iOS), Java (Android)*"
 
-      - company: "Early Career"
-        position:
+      - company:
+        position: "Early Career"
         location:
         start_date: 1986
         end_date: 2009
