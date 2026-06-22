@@ -78,7 +78,7 @@ cv:
         highlights:
           - Led Developer Experience (SDKs, tools, docs, technical escalations) and pre/post-sales engineering for a bot/fraud detection platform
           - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires."
-          - *Stack: JavaScript, Cloudflare Workers.*
+          - "*Stack: JavaScript, Cloudflare Workers.*"
           
     Education:
       - institution: University of California, San Diego
