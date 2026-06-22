@@ -30,7 +30,7 @@ San Francisco and San Jose, California.
 I was on the rotation list of overnight hosts to provide evening meals,
 breakfasts, supervise children's activities, and handle overnight emergencies.
 
-<a href='../../assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf' target="_blank">
+<a href='../../assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf' target="_blank"><div>
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/256x1.png" title="space" %}
@@ -45,6 +45,6 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
   <div class="caption">
     Interim Housing Model.
   </div>
-</a>
+</div></a>
 
-v8
+v9
