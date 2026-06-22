@@ -41,10 +41,10 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
 </div>
-<a href='../../assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf' target='_blank'>
-  <div class="caption">
+<div class="caption">
+  <a href='../../assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf' target='_blank'>
     Interim Housing Model (click for PDF)
-  </div>
-</a>
+  </a>
+</div>
 
 v12
