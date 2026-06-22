@@ -31,13 +31,13 @@ I was on the rotation list of overnight hosts to provide evening meals,
 breakfasts, supervise children's activities, and handle overnight emergencies.
 
 <div class="row">
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm-3 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm-6 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_HomeAndHope_InterimHousingModel.jpg" title="Interim Housing Model" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm mt-3 mt-md-0">
+  <div class="col-sm-3 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
 </div>
@@ -47,4 +47,4 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
   </a>
 </div>
 
-v12
+v14

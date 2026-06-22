@@ -38,8 +38,8 @@ cv:
         end_date: 2026-04
         highlights:
           - Guided third-party POS developers integrating with Yellow Dog's inventory platform via REST API.
-          - "Authored and maintained external <a href='https://developer.yellowdogsoftware.com/rest/user-guide'><u>developer documentation</u></a> and reference sample code.
-          - *Stack: C#, JavaScript, SQL.*"
+          - "Authored and maintained external <a href='https://developer.yellowdogsoftware.com/rest/user-guide'><u>developer documentation</u></a> and reference sample code."
+          - "*Stack: C#, JavaScript, SQL.*"
 
       - company: Vatom.com
         position: Developer Relations Lead
@@ -47,9 +47,9 @@ cv:
         start_date: 2022-11
         end_date: 2024-07
         highlights:
-          - Owned developer-facing documentation and sample code for Web3 SDKs, APIs, and tooling covering identity, wallets, and 3D virtual spaces.
-          - "Served as primary technical point of contact for external developer partners.
-          - *Stack: TypeScript, JavaScript, React.*"
+          - "Owned <a href='https://developer.vatom.com/'><u>developer-facing documentation</u></a> and sample code for Web3 SDKs, APIs, and tooling covering identity, wallets, and 3D virtual spaces."
+          - "Served as primary technical point of contact for external developer partners."
+          - "*Stack: TypeScript, JavaScript, React.*"
 
       - company: National Conference on Citizenship
         position: Technical Project Manager
@@ -57,8 +57,9 @@ cv:
         start_date: 2022-02
         end_date: 2023-01
         highlights:
-          - "Managed remote software work on ETL pipelines and the Junkipedia disinformation-tracking platform; coordinated documentation against the public Junkipedia API.
-          - *Stack: Python, Ruby on Rails, Elasticsearch, AWS.*"
+          - "Managed remote software work on ETL pipelines and the Junkipedia disinformation-tracking platform."
+          - "Maintained <a href='https://docs.junkipedia.org/reference-material/api'><u>API documentation</u></a> for external developers."
+          - "*Stack: Python, Ruby on Rails, Elasticsearch, AWS.*"
 
       - company: Castle.io
         position: Director of Developer Relations
@@ -67,18 +68,17 @@ cv:
         end_date: 2021-03
         highlights:
           - Led Developer Experience (SDKs, tools, docs, technical escalations) and pre/post-sales engineering for a bot/fraud detection platform
-          - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires.
-          - *Stack: JavaScript, Cloudflare Workers.*"
+          - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires."
+          - "*Stack: JavaScript, Cloudflare Workers.*"
 
       - company: "Fyber (acquired by <a href='https://www.digitalturbine.com/'><u>digitalturbine.com</u></a>)"
         position: Head of Solutions Engineering, North America
         location: San Francisco, CA
-        start_date: 2019-01
-        end_date: 2021-03
+        start_date: 2015-03
+        end_date: 2018-12
         highlights:
-          - Led Developer Experience (SDKs, tools, docs, technical escalations) and pre/post-sales engineering for a bot/fraud detection platform
-          - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires."
-          - "*Stack: JavaScript, Cloudflare Workers.*"
+          - Built and ran Solutions Engineering teams in San Francisco and Beijing supporting ~10,000 publishers reaching ~1.2B monthly active users across 180 countries.
+          - "*Stack: Objective-C (iOS), Java (Android).*"
           
     Education:
       - institution: University of California, San Diego
