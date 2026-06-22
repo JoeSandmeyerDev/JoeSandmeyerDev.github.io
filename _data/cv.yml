@@ -20,7 +20,7 @@ cv:
   sections:
     Skills:
       - name: Programming Languages
-        keywords: "TypeScript, JavaScript, Python, C#, SQL, Objective-C, C++, Java (Android, J2ME), Pascal"
+        keywords: "TypeScript, JavaScript, Python, C, C++, Objective-C, C#, SQL, Java (Android, J2ME), Pascal"
       - name: Web & Cloud
         keywords: "React, Node.js, Cloudflare Workers (serverless edge), AWS, Elasticsearch"
       - name: APIs & Integration
@@ -41,7 +41,7 @@ cv:
           - Built small projects to challenge tool-using agentic AI models
           - "*Stack: Python, JavaScript*"
         
-      - company: Yellow Dog Software
+      - company: "<a href='https://www.yellowdogsoftware.com/'><u>Yellow Dog Software</u></a>"
         position: Developer Relations Manager
         location: Washington DC
         start_date: 2024-07
@@ -51,7 +51,7 @@ cv:
           - "Authored and maintained external <a href='https://developer.yellowdogsoftware.com/rest/user-guide'><u>developer documentation</u></a> and reference sample code."
           - "*Stack: C#, JavaScript, SQL*"
 
-      - company: Vatom.com
+      - company: "<a href='https://vatom.com/'><u>Vatom.com</u></a>"
         position: Developer Relations Lead
         location: Washington DC
         start_date: 2022-11
@@ -61,7 +61,7 @@ cv:
           - "Served as primary technical point of contact for external developer partners."
           - "*Stack: TypeScript, JavaScript, React*"
 
-      - company: National Conference on Citizenship
+      - company: "<a href='https://ncoc.org/'><u>National Conference on Citizenship</u></a>"
         position: Technical Project Manager
         location: Washington DC
         start_date: 2022-02
@@ -71,7 +71,7 @@ cv:
           - "Maintained <a href='https://docs.junkipedia.org/reference-material/api'><u>API documentation</u></a> for external developers."
           - "*Stack: Python, Ruby on Rails, Elasticsearch, AWS*"
 
-      - company: Castle.io
+      - company: "<a href='https://Castle.io/'><u>Castle.io</u></a>"
         position: Director of Developer Relations
         location: San Francisco, CA
         start_date: 2019-01

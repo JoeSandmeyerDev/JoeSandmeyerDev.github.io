@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: The PDF button above will download a standard, single page resume highlighting recent experience. You can download a more comprehensive, <a href='/assets/pdf/example_pdf.pdf'>four page resume from <u>this link</u></a>.
+description: The PDF button above will download a standard, single page resume highlighting recent experience. For machine consumption, I recommend <a href='/assets/pdf/example_pdf.pdf'><u> this long form resume</u> with simplified formatting</a>.
 toc:
   sidebar: left
 ---
