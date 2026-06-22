@@ -33,13 +33,13 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
 <a href='../../assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf'>
   <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1024x1.jpg" title="space" %}
+        {% include figure.liquid path="assets/img/512x1.png" title="space" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Proj_HomeAndHope_InterimHousingModel.jpg" title="Interim Housing Model" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1024x1.jpg" title="space" %}
+        {% include figure.liquid path="assets/img/512x1.png" title="space" %}
     </div>
   </div>
 </a>
@@ -49,4 +49,4 @@ breakfasts, supervise children's activities, and handle overnight emergencies.
   </a>
 </div>
 
-v5
+v6
