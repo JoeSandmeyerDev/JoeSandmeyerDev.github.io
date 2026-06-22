@@ -70,6 +70,16 @@ cv:
           - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires.
           - *Stack: JavaScript, Cloudflare Workers.*"
 
+      - company: "Fyber (acquired by <a href='https://www.digitalturbine.com/'><u>digitalturbine.com</u></a>)"
+        position: Head of Solutions Engineering, North America
+        location: San Francisco, CA
+        start_date: 2019-01
+        end_date: 2021-03
+        highlights:
+          - Led Developer Experience (SDKs, tools, docs, technical escalations) and pre/post-sales engineering for a bot/fraud detection platform
+          - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires."
+          - *Stack: JavaScript, Cloudflare Workers.*
+          
     Education:
       - institution: University of California, San Diego
         location: San Diego, California
