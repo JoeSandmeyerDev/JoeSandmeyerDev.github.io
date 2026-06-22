@@ -5,7 +5,7 @@ permalink: /projects/
 description: A representative list of projects
 nav: true
 nav_order: 1
-display_categories: [professional, extracurricular]
+display_categories: [work, extracurricular]
 horizontal: false
 ---
 
