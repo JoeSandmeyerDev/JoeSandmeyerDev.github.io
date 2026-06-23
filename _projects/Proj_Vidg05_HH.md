@@ -2,7 +2,7 @@
 layout: page
 title: High Heat Baseball
 description: Video game for PC and multiple consoles 
-img: assets/img/Proj_Vidg01_GS_PsBox.jpg
+img: assets/img/Proj_Vidg05_HH_Ps2004.jpg
 importance: 4
 category: work
 related_publications: false
@@ -10,38 +10,33 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcBox.jpg" title="Meal" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_Ps2003.jpg" title="HH 2003" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PsBox.jpg" title="OptyCtr" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_SatBox.jpg" title="FoodDrive" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_Ps2004.jpg" title="HH 2004" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 During my time at 3DO from 1997 to 2003, I developed software for video game
 titles in four franchise series.
 
-My first game franchise series at 3DO was <a href='https://en.wikipedia.org/wiki/BattleTanx'><u>BattleTanks</u></a>. We shipped three titles for
-PlayStation and Nintendo 64. Our most popular title in the series was <a href='https://en.wikipedia.org/wiki/BattleTanx:_Global_Assault'><u>BattleTanx: Global Assault</u></a>.
-My contributions included single-player gameplay, NPC AI, pathfinding, and UI.
+Among these games were the 2003 and 2004 versions of High Heat Baseball for PlayStation 2,
+Xbox, and Windows. 
+My contributions included the animation system with event triggers, NPC AI, career mode,
+statistical simulation of games in a series, and debugging broken builds.
+Most of the game shared a common C++ codebase across the three platforms.
 
 <div class="row">
-  <div class="col-sm-3 mt-3 mt-md-0">
+  <div class="col-sm-1 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    <a href='https://en.wikipedia.org/wiki/Grand_Slam_(video_game)' target='_blank'>
-      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcGmPly.jpg" title="Grand Slam Baseball Video Game" class="img-fluid rounded z-depth-1" %}
-    </a>
+  <div class="col-sm-5 mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_CMd.jpg" title="HH Career mode" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-3 mt-3 mt-md-0">
+  <div class="col-sm-5 mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_AtB.jpg" title="HH At Bat" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-1 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
-</div>
-<div class="caption">
-  <a href='../../assets/pdf/Proj_HomeAndHope_InterimHousingModel.pdf' target='_blank'>
-    Interim Housing Model (click for PDF)
-  </a>
 </div>

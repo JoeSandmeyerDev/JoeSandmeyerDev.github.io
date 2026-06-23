@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Grand Slam Baseball
-description: Video game for PC and multiple consoles 
-img: assets/img/Proj_Vidg01_GS_PsBox.jpg
+title: Game
+description: Video game project template 
+img: assets/img/arrow.png
 importance: 4
 category: work
 related_publications: false
