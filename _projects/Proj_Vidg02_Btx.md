@@ -3,7 +3,7 @@ layout: page
 title: BattleTanx
 description: Video game series for PlayStation and N64 
 img: assets/img/Proj_Vidg02_BtxN1_Box.jpg
-importance: 4
+importance: 5
 category: work
 related_publications: false
 ---
