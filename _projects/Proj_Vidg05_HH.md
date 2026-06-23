@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grand Slam Baseball
+title: High Heat Baseball
 description: Video game for PC and multiple consoles 
 img: assets/img/Proj_Vidg01_GS_PsBox.jpg
 importance: 4
@@ -20,12 +20,12 @@ related_publications: false
     </div>
 </div>
 
-As my first project in the video game industry, I applied my experience developing
-graphics rendering and modelling software on <a href='https://en.wikipedia.org/wiki/MacDraft'><u>MacDraft</u></a> to developing a proprietary
-3D World Builder tool in 1994 for use in all 3D Video Games produced by
-Virgin Interactive Entertainment.
-<br/><br/>
-Upon completing the 3D World Builder, I became a core member of the team that developed and shipped GrandSlam Baseball on the PlayStation®, PC (DirectX, Direct3D), and Sega Saturn® platforms simultaneously. I wrote the AI driven Pitching, Batting, Running, Fielding, and Player Selection logic in the computer opponent for single-player games and the 3D camera positioning logic. I created an original graphically scripted expert system enabling designers to implement all of the color commentary and implemented a statistically driven system for simulating scores and stats for parallel games in a baseball series.
+During my time at 3DO from 1997 to 2003, I developed software for video game
+titles in four franchise series.
+
+My first game franchise series at 3DO was <a href='https://en.wikipedia.org/wiki/BattleTanx'><u>BattleTanks</u></a>. We shipped three titles for
+PlayStation and Nintendo 64. Our most popular title in the series was <a href='https://en.wikipedia.org/wiki/BattleTanx:_Global_Assault'><u>BattleTanx: Global Assault</u></a>.
+My contributions included single-player gameplay, NPC AI, pathfinding, and UI.
 
 <div class="row">
   <div class="col-sm-3 mt-3 mt-md-0">
