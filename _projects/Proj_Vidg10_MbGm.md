@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Game
-description: Video game project template 
+title: Early Mobile Apps
+description: Mobile apps and games before smartphones 
 img: assets/img/Proj_Vidg10_MbGm_Mosaic.png
 importance: 4
 category: work
