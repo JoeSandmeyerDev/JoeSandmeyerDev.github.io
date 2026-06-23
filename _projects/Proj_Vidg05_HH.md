@@ -2,19 +2,25 @@
 layout: page
 title: High Heat Baseball
 description: Video game for PC and multiple consoles 
-img: assets/img/Proj_Vidg05_HH_Ps2004.jpg
+img: assets/img/Proj_Vidg05_HH_WidePad.jpg
 importance: 4
 category: work
 related_publications: false
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_Ps2003.jpg" title="HH 2003" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_Ps2004.jpg" title="HH 2004" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm-1 mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/256x1.png" title="space" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_Ps2003.jpg" title="HH 2003" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_Ps2004.jpg" title="HH 2004" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-1 mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/256x1.png" title="space" %}
+  </div>
 </div>
 
 During my time at 3DO from 1997 to 2003, I developed software for video game
@@ -27,16 +33,16 @@ statistical simulation of games in a series, and debugging broken builds.
 Most of the game shared a common C++ codebase across the three platforms.
 
 <div class="row">
-  <div class="col-sm-1 mt-3 mt-md-0">
+  <div class="col-sm-2 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
-  <div class="col-sm-5 mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_CMd.jpg" title="HH Career mode" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-5 mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg05_HH_AtB.jpg" title="HH At Bat" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-1 mt-3 mt-md-0">
+  <div class="col-sm-2 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
 </div>

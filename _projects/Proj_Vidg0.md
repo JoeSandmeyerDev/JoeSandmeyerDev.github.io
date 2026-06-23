@@ -33,7 +33,7 @@ Upon completing the 3D World Builder, I became a core member of the team that de
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     <a href='https://en.wikipedia.org/wiki/Grand_Slam_(video_game)' target='_blank'>
-      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcGmPly.jpg" title="Grand Slam Baseball Video Game" class="img-fluid rounded z-depth-1" %}
+      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcGmPly2.jpg" title="Grand Slam Baseball Video Game" class="img-fluid rounded z-depth-1" %}
     </a>
   </div>
   <div class="col-sm-3 mt-3 mt-md-0">
