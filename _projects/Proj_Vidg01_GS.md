@@ -9,19 +9,19 @@ related_publications: false
 ---
 
 <div class="row">
-  <div class="col-sm-3 mt-3 mt-md-0">
+  <div class="col-sm-2 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
   <div class="col-sm-2 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcBox.jpg" title="Meal" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-2 mt-2 mt-md-0">
+  <div class="col-sm-4 mt-2 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PsBox.jpg" title="OptyCtr" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-2 mt-2 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_SatBox.jpg" title="FoodDrive" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-3 mt-3 mt-md-0">
+  <div class="col-sm-2 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
 </div>
@@ -44,9 +44,6 @@ scores and stats for parallel games in a baseball series.
 <div class="row">
   <div class="col-sm-1 mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-      {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcGmPly1.jpg" title="Grand Slam Baseball Video Game" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcGmPly2.gif" title="Grand Slam Baseball Video Game" class="img-fluid rounded z-depth-1" %}
