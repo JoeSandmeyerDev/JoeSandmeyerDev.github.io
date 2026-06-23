@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Vatom Developer Portal
-description: I documented Vatom's SDKs, APIs, and developer tools on this site.
+description: I wrote documentation on all of the Vatom SDKs, APIs, and developer tools represented on this site.
 img: assets/img/Proj_DevVatom_Wallet.png
-redirect: https://developer.vatom.com/
+redirect: https://developer.vatom.com/api/general/overview/introduction
 importance: 3
 category: work
 ---

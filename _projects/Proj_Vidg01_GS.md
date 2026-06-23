@@ -21,7 +21,7 @@ related_publications: false
 </div>
 
 As my first project in the video game industry, I applied my experience developing
-graphics rendering and modelling software on MacDraft to developing a proprietary
+graphics rendering and modelling software on <a href='https://en.wikipedia.org/wiki/MacDraft'><u>MacDraft</u></a> to developing a proprietary
 3D World Builder tool in 1994 for use in all 3D Video Games produced by
 Virgin Interactive Entertainment.
 <br/><br/>
