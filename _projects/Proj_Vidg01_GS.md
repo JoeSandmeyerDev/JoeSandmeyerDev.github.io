@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 <div class="row">
-  <div class="col-sm-1 mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
   <div class="col-sm-3 mt-3 mt-md-0">
@@ -21,7 +21,7 @@ related_publications: false
   <div class="col-sm-3 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_SatBox.jpg" title="Saturn" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-1 mt-3 mt-md-0">
+  <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
 </div>
