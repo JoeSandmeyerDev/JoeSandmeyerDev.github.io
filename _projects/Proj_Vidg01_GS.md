@@ -15,10 +15,10 @@ related_publications: false
   <div class="col-sm-3 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PcBox.jpg" title="PC" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-4 mt-2 mt-md-0">
+  <div class="col-sm-4 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_PsBox.jpg" title="PS" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-3 mt-2 mt-md-0">
+  <div class="col-sm-3 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_Vidg01_GS_SatBox.jpg" title="Saturn" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-1 mt-3 mt-md-0">
