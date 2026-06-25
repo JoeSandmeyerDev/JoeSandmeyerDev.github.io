@@ -2,7 +2,7 @@
 layout: page
 title: iOS & Android SaaS SDKs
 description: I built teams to maintain and support SaaS services with iOS & Android SDKs
-img: assets/img/3.jpg
+img: assets/img/Proj_MbSaaS_Mosaic.jpg
 importance: 4
 category: work
 related_publications: false
