@@ -3,7 +3,7 @@ layout: page
 title: High Heat Baseball
 description: Video game franchise for PlayStation 2, Xbox, and Windows 
 img: assets/img/Proj_Vidg05_HH_WidePad.jpg
-importance: 4
+importance: 7
 category: work
 related_publications: false
 ---

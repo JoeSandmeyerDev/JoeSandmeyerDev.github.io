@@ -3,7 +3,7 @@ layout: page
 title: Early Mobile Apps
 description: Mobile apps and games before smartphones 
 img: assets/img/Proj_Vidg10_MbGm_Mosaic.png
-importance: 6
+importance: 8
 category: work
 related_publications: false
 ---

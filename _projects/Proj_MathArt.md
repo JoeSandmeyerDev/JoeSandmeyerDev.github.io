@@ -12,9 +12,9 @@ related_publications: false
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_SinOnBlk_1200k.jpg" title="Sine Wave Sculpture" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_SinOnBlk_1200k.jpg" title="Sine Wave Sculpture" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 
 Shortly after college, I realized that trigonometry and linear algebra were at the core
@@ -24,7 +24,7 @@ While studying power transfer in AC circuits, just for fun, I found myself
 grasping for a better visualization of trigonometric relationships to improve my
 intuition when applying the math.
 It struck me to stop focusing on the 2D geometry of the sine and cosine functions
-and instead visualize them as 2D projections from a 3D helix.
+and instead visualize them as 2D projections of a 3D helix.
 I created a helical model out of brazing rods fitted inside a clear box to sit on my desk
 for inspiration while writing my own 3D graphics rendering software, also just for fun.
 <br><br>
@@ -51,10 +51,16 @@ Conversely, a 2D projection looking down this axis hides the wave
 and only shows the circle.
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_Helix.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_GeoLens.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
-    </div>
+  <div class="col-sm-1 mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/256x1.png" title="space" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_Helix.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-6 mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_GeoLens.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-1 mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/256x1.png" title="space" %}
+  </div>
 </div>

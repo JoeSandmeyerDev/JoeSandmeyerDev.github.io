@@ -3,7 +3,7 @@ layout: page
 title: Grand Slam Baseball
 description: Video game for PC, PlayStation, and Sega Saturn 
 img: assets/img/Proj_Vidg01_GS_PsBox.jpg
-importance: 4
+importance: 6
 category: work
 related_publications: false
 ---
