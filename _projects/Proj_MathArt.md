@@ -36,7 +36,7 @@ the physics concepts and the value of interdisciplinary collaboration to break n
 The relevance to my story is that her interdisciplinary success and a
 mispronunciation of her name introduced me to properties of the
 <a href='https://en.wikipedia.org/wiki/Vesica_piscis'><u>vesica pisicus</u></a>
-and led me to replace the wire in helical rods in my models with sheets
+and led me to replace the helical rods in my models with sheets
 of nickel cut into lens shaped sections 
 sections bent in a single dimension so that they could be soldered at
 perpendicular edges.

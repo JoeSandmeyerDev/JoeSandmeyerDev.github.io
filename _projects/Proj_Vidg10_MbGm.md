@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Early Mobile Apps
-description: Mobile apps and games before smartphones 
+description: >
+  In the mid 2000s, before smartphones, I shipped a dozen mobile apps and games
+  with multiple studios and publishers.
 img: assets/img/Proj_Vidg10_MbGm_Mosaic.png
 importance: 5
 category: work
