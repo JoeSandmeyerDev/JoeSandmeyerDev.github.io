@@ -24,8 +24,8 @@ While studying power transfer in AC circuits, just for fun, I found myself
 grasping for a better visualization of trigonometric relationships to improve my
 intuition when applying the math.
 It struck me to stop focusing on the 2D geometry of the sine and cosine functions
-and instead visualize them as 2D projections from a 3D spiral.
-I created a spiral model out of brazing rods fitted inside a clear box to sit on my desk
+and instead visualize them as 2D projections from a 3D helix.
+I created a helical model out of brazing rods fitted inside a clear box to sit on my desk
 for inspiration while writing my own 3D graphics rendering software, also just for fun.
 <br><br>
 A few years later, one of my coworkers at Berkeley Systems Software was working toward
@@ -36,7 +36,7 @@ the physics concepts and the value of interdisciplinary collaboration to break n
 The relevance to my story is that her interdisciplinary success and a
 mispronunciation of her name introduced me to properties of the
 <a href='https://en.wikipedia.org/wiki/Vesica_piscis'><u>vesica pisicus</u></a>
-and led me to replace the wire in my spiral models with sheets
+and led me to replace the wire in helical rods in my models with sheets
 of nickel cut into lens shaped sections 
 sections bent in a single dimension so that they could be soldered at
 perpendicular edges.
@@ -44,13 +44,16 @@ perpendicular edges.
 The resulting sculpture immediately draws the eye to the 2D sine and cosine components
 of this 3D object. Upon closer inspection, it surprises people to see that this
 unusual shape will roll freely across a flat desk.
-This realization emphasizes that its edge forms a spring like spiral and that the shape
+This realization emphasizes that its edge forms a spring-like helix and that the shape
 of the 2D waves derive entirely from the circular shape in the
 third dimension that gets lost when projected in 2D across the circle's axis.
 Conversely, a 2D projection looking down this axis hides the wave
 and only shows the circle.
 
 <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_Helix.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
+    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_GeoLens.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
     </div>
