@@ -20,10 +20,10 @@ related_publications: false
 → ॐ
 
 <div class="row">
-  <div class="col-sm-8 mt-3 mt-md-0">
+  <div class="col-sm-7 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_WrscFm_PanoFromDock.jpg" title="PanoFromDock.jpg" title="DockPano" class="img-fluid rounded z-depth-1" %}" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
+  <div class="col-sm-5 mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_WrscFm_DinLect.jpg" title="DinLect" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
