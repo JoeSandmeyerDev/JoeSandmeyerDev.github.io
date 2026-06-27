@@ -23,8 +23,8 @@ including vector analysis of aggregate behaviors in the social sciences.
 While studying power transfer in AC circuits, just for fun, I found myself
 grasping for a better visualization of trigonometric relationships to improve my
 intuition when applying the math.
-It struck me to stop focusing on the 2D geometry of the sine and cosine functions
-and instead visualize them as 2D projections of a 3D helix.
+It struck me to loosen my grip on the 2D geometry of the sine and cosine functions
+and instead focus more on the 3D helix that generates them as 2D projections.
 I created a helical model out of brazing rods fitted inside a clear box to sit on my desk
 for inspiration while writing my own 3D graphics rendering software, also just for fun.
 <br><br>
@@ -45,7 +45,7 @@ The resulting sculpture immediately draws the eye to the 2D sine and cosine comp
 of this 3D object. Upon closer inspection, it surprises people to see that this
 unusual shape will roll freely across a flat desk.
 This realization emphasizes that its edge forms a spring-like helix and that the shape
-of the 2D waves derive entirely from the circular shape in the
+of the familiar 2D waves derive entirely from the circular shape in the
 third dimension that gets lost when projected in 2D across the circle's axis.
 Conversely, a 2D projection looking down this axis hides the wave
 and only shows the circle.
