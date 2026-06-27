@@ -2,11 +2,13 @@ cv:
   name: Joe Sandmeyer
   # label: SaaS DevRel Expert
   email: joe.sandmeyer@gmail.com
+  website: https://JoeSandmeyer.com/
   location: Washington DC Metro Area
-  photo:
   headline: Developer Relations / Developer Experience / Solutions Engineering
 
   social_networks:
+    - network: WhatsApp
+      username: +1 209-586-9492
     - network: LinkedIn
       username: joesandmeyer
 

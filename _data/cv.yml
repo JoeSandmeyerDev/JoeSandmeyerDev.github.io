@@ -1,20 +1,22 @@
 # How to convert from al-folio's cv.yml:
 # 1. Duplicate al-folio's cv.yml, rename it to cv-rendercv.yml, and make the following changes to the copy.
+# 2. Under "cv:" root, rename the "summary:" key to  "headline:".
+# 2. Under "cv:" root, remove the entire "address:" block.
 # 2. In the "Skills" section, rename each "- name:" key to  "- label:" 
 # 3. In the "Skills" section, rename each "keywords:" key to  "details:" 
 
 cv:
   name: Joe Sandmeyer
   # label: SaaS DevRel Expert
-  sms: +1 209-586-9492
   email: joe.sandmeyer@gmail.com
   website: https://JoeSandmeyer.com/
   location: Washington DC Metro Area
   summary: Developer Relations / Developer Experience / Solutions Engineering
   headline: Developer Relations / Developer Experience / Solutions Engineering
-  linkedin: https://www.linkedin.com/in/joesandmeyer/
 
   social_networks:
+    - network: WhatsApp
+      username: +1 209-586-9492
     - network: LinkedIn
       username: joesandmeyer
 
