@@ -50,11 +50,20 @@ third dimension that gets lost when projected in 2D across the circle's axis.
 Conversely, a 2D projection looking down this axis hides the wave
 and only shows the circle.
 
+<br><br><br><br>
+<br><br><br><br>
+
 <div class="row">
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/256x1.png" title="space" %}
+  </div>
   <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_Helix.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
       {% include figure.liquid loading="eager" path="assets/img/Proj_MathArt_GeoLens.gif" title="Geometric Lens Shape" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid path="assets/img/256x1.png" title="space" %}
   </div>
 </div>
