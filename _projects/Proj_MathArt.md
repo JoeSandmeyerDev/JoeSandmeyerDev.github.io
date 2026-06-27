@@ -23,8 +23,8 @@ including vector analysis of aggregate behaviors in the social sciences.
 While studying power transfer in AC circuits, just for fun, I found myself
 grasping for a better visualization of trigonometric relationships to improve my
 intuition when applying the math.
-It struck me to loosen my grip on the 2D geometry of the sine and cosine functions
-and instead focus more on the 3D helix that generates them as 2D projections.
+It struck me to loosen my grip on the 2D geometry of the sine and cosine functions and
+instead focus on the 3D helix that generates the 2D projections we recognize in these functions.
 I created a helical model out of brazing rods fitted inside a clear box to sit on my desk
 for inspiration while writing my own 3D graphics rendering software, also just for fun.
 <br><br>

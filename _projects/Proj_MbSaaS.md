@@ -52,7 +52,7 @@ to grow at a more sustainable rate without extreme levels of debt and wasteful s
 that broke my confidence and ultimately led to their 2017 collapse.
 <br><br>
 I was recruited by game industry friends to join
-<a href='https://ir.digitalturbine.com/news-events/press-releases/detail/610/digital-turbine-announces-completion-of-acquisition-of'><u>Fyber</u></a>)
+<a href='https://ir.digitalturbine.com/news-events/press-releases/detail/610/digital-turbine-announces-completion-of-acquisition-of'><u>Fyber</u></a>
 in 2015 to lead Solutions Engineering for their US office.
 As an ads platform focused on mobile games, my team was responsible for helping game
 developers worldwide to monetize their apps through our iOS and Android SDKs and helping
@@ -62,13 +62,14 @@ offices to keep our backend operating at scale for mobile game users around the 
 <br><br>
 <a href='https://Castle.io/'><u>Castle.io</u></a> offers a SaaS service to help
 web and mobile apps detect bot attacks and prevent account abuse.
-I joined in 2019 during early stage venture rounds to help promote the service by
-leading Developer Relations and helping build out the Solutions Engineering team.
-The engineers I led maintained SDKs for mobile, web, and even a edge based solution
+I joined during an early stage venture round in January 2019 to help promote the service
+by leading Developer Relations and helping build out the Solutions Engineering team.
+The engineers I led maintained SDKs for mobile, web, and even an edge based solution
 built on
 <a href='https://www.cloudflare.com/products/workers/'><u>CloudFlare Workers</u></a>.
 Among the many hats I wore in Castle's early days was building their Soc 2 controls
 and responding to InfoSec questionnaires from enterprise clients.
-
+I stayed through tough times at the height of Covid until relocating to
+Washington DC mid 2021.
 
 
