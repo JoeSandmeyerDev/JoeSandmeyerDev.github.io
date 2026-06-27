@@ -51,7 +51,6 @@ Conversely, a 2D projection looking down this axis hides the wave
 and only shows the circle.
 
 <br><br><br><br>
-<br><br><br><br>
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
