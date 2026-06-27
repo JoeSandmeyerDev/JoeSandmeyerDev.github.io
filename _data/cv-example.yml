@@ -1,3 +1,8 @@
+# How to convert from al-folio's cv.yml:
+# 1. Duplicate al-folio's cv.yml, rename it to cv-rendercv.yml, and make the following changes to the copy.
+# 2. In the "Skills" section, rename each "- name:" key to  "- label:" 
+# 3. In the "Skills" section, rename each "keywords:" key to  "details:" 
+
 cv:
   name: John Doe
   headline:
