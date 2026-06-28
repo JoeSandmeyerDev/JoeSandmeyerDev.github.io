@@ -20,10 +20,8 @@ cv:
   email: joe.sandmeyer@gmail.com
   website: https://JoeSandmeyer.com/
   location: Washington DC Metro Area
-  summary: >
-    Developer Relations - Developer Experience - Solutions Engineering
-  headline: Developer Relations / Developer Experience / Solutions Engineering
-
+  # headline: Developer Relations / Developer Experience / Solutions Engineering
+  summary:
   social_networks:
     - network: WhatsApp
       username: +1 209-586-9492
@@ -44,8 +42,8 @@ cv:
         keywords:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
     Experience:
-      - company: >
-          [Data Annotation](https://dataannotation.tech/about-us)
+      - company: "<a href='https://dataannotation.tech/about-us'><u>Data Annotation</u></a>"
+        # "[Data Annotation](https://dataannotation.tech/about-us)"
         position: AI Model Trainer
         location: Washington DC
         start_date: 2024-03
@@ -55,7 +53,8 @@ cv:
           - Built small projects to challenge tool-using agentic AI models
           - "*Stack: Python, JavaScript*"
         
-      - company: "[Yellow Dog Software](https://www.yellowdogsoftware.com/)"
+      - company: "<a href='https://www.yellowdogsoftware.com/'><u>Yellow Dog Software</u></a>"
+        #  "[Yellow Dog Software](https://www.yellowdogsoftware.com/)"
         position: Developer Relations Manager
         location: Washington DC
         start_date: 2024-07
@@ -65,7 +64,8 @@ cv:
           - "Authored and maintained external [developer documentation](https://developer.yellowdogsoftware.com/rest/user-guide) and reference sample code."
           - "*Stack: C#, JavaScript, SQL*"
 
-      - company: "[Vatom.com](https://vatom.com/)"
+      - company: "<a href='https://vatom.com/'><u>Vatom.com</u></a>"
+        # "[Vatom.com](https://vatom.com/)"
         position: Developer Relations Lead
         location: Washington DC
         start_date: 2022-11
@@ -75,7 +75,8 @@ cv:
           - "Directly contributed to code repositories of enterprise parters enabling dozens of brand engagement campaigns reaching thousands of customers."
           - "*Stack: TypeScript, JavaScript, React*"
 
-      - company: "[National Conference on Citizenship](https://ncoc.org/) / [Algorithmic Transparency Institute](https://ati.io/)"
+      - company: "<a href='https://ncoc.org/'><u>National Conference on Citizenship</u></a>"
+        # "[National Conference on Citizenship](https://ncoc.org/) / [Algorithmic Transparency Institute](https://ati.io/)"
         position: Technical Project Manager
         location: Washington DC
         start_date: 2022-02
@@ -85,7 +86,8 @@ cv:
           - "Maintained [API documentation](https://docs.junkipedia.org/reference-material/api) for external developers."
           - "*Stack: Python, Ruby on Rails, Elasticsearch, AWS*"
 
-      - company: "[Castle.io](https://Castle.io/)"
+      - company: "<a href='https://Castle.io/'><u>Castle.io</u></a>"
+        # "[Castle.io](https://Castle.io/)"
         position: Director of Developer Relations
         location: San Francisco, CA
         start_date: 2019-01
@@ -95,7 +97,8 @@ cv:
           - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires."
           - "*Stack: JavaScript, Cloudflare Workers*"
 
-      - company: "Fyber (acquired by [digitalturbine.com](https://www.digitalturbine.com/)"
+      - company: "Fyber (acquired by <a href='https://www.digitalturbine.com/'><u>digitalturbine.com</u></a>)"
+        # "Fyber (acquired by [digitalturbine.com](https://www.digitalturbine.com/)"
         position: Head of Solutions Engineering, North America
         location: San Francisco, CA
         start_date: 2015-03
@@ -104,7 +107,8 @@ cv:
           - Built and ran Solutions Engineering teams in San Francisco and Beijing supporting ~10,000 publishers reaching ~1.2B monthly active users across 180 countries.
           - "*Stack: Objective-C (iOS), Java (Android)*"
           
-      - company: "[Quixey](https://en.wikipedia.org/wiki/Quixey)"
+      - company: "<a href='https://en.wikipedia.org/wiki/Quixey'><u>Quixey</u></a>"
+        # "[Quixey](https://en.wikipedia.org/wiki/Quixey)"
         position: Developer Relations, Technical Director
         location: Mountain View, CA
         start_date: 2013-07
@@ -114,7 +118,8 @@ cv:
           - Served as technical point of contact between clients and partners
           - "*Stack: JavaScript/jQuery front end prototypes for partners, web crawl & scrape tools*"
 
-      - company: "[GREE / OpenFeint](https://www.openfeint.com/)"
+      - company: "<a href='https://www.openfeint.com/'><u>GREE / OpenFeint</u></a>"
+        # "[GREE / OpenFeint](https://www.openfeint.com/)"
         position: Director, Sales Engineering
         location: San Francisco, CA
         start_date: 2009-10
