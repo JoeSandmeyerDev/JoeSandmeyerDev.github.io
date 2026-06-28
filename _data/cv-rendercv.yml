@@ -15,7 +15,7 @@ cv:
   sections:
     Skills:
       - label: Programming Languages
-        details: "TypeScript, JavaScript, Python, C#, SQL, Objective-C, C++, Java (Android, J2ME), Pascal"
+        details: "TypeScript, JavaScript, Python, C, C++, Objective-C, C#, SQL, Java (Android, J2ME), Pascal"
       - label: Web & Cloud
         details: "React, Node.js, Cloudflare Workers (serverless edge), AWS, Elasticsearch"
       - label: APIs & Integration
@@ -26,23 +26,36 @@ cv:
         details:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
     Experience:
-      - company: Yellow Dog Software
-        position: Developer Relations Manager
-        location: Washington DC, US
-        start_date: 1933-05
-        end_date: 1933-07
+      - company: "Fyber"
+        position: Head of Solutions Engineering, North America
+        location: San Francisco, CA
+        start_date: 2015-03
+        end_date: 2018-12
+        highlights:
+          - Built and ran Solutions Engineering teams in San Francisco and Beijing supporting ~10,000 publishers reaching ~1.2B monthly active users across 180 countries.
+          - "*Stack: Objective-C (iOS), Java (Android)*"
+          
+      - company: "Quixey"
+        position: Developer Relations, Technical Director
+        location: Mountain View, CA
+        start_date: 2013-07
+        end_date: 2015-03
+        highlights:
+          - Promoted the AppURL deep-linking standard
+          - Served as technical point of contact between clients and partners
+          - "*Stack: JavaScript/jQuery front end prototypes for partners, web crawl & scrape tools*"
 
-      - company: Vatom
-        position: Developer Relations Lead
-        location: Washington DC, US
-        start_date: 1933-05
-        end_date: 1933-07
-
-      - company: National Conference on Citizenship
-        position: Technical Project Manager
-        location: Washington DC, US
-        start_date: 1933-05
-        end_date: 1933-07
+      - company: "Early Career"
+        position: ""
+        location:
+        start_date: 1986
+        end_date: 2009
+        highlights:
+          - "**AI & Systems Developer — Brainpool** *(2007–2009):* Natural-language–driven behavior AI for animated characters"
+          - "**Independent Contractor (Glu Mobile, Atlas Telecom Mobile, FingerTwitch, Sennari)** *(2002–2007):* Brew / J2ME mobile game development; gameplay and game AI"
+          - "**3D & Game AI Engineer — 3DO Company** *(1997–2003):* Gameplay, animation control, physics simulation, spatial DB, pathfinding, tactical maneuver control and behavioral AI across the *BattleTanx* trilogy, *High Heat Baseball*, *Army Men *, and two unreleased titles"
+          - "**CTO — Talkie, Inc.** *(1997–2001):* Built and led the founding engineering team"
+          - "**3D & Game AI Engineer — Virgin Interactive Entertainment** *(1994–1997):* 3D world builder, scripting engine, game AI (*Grand Slam* baseball)"
 
     Education:
       - institution: University of California, San Diego

@@ -1,9 +1,16 @@
+#===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===
 # How to convert from al-folio's cv.yml:
 # 1. Duplicate al-folio's cv.yml, rename it to cv-rendercv.yml, and make the following changes to the copy.
 # 2. Under "cv:" root, rename the "summary:" key to  "headline:".
-# 2. Under "cv:" root, remove the entire "address:" block.
-# 2. In the "Skills" section, rename each "- name:" key to  "- label:" 
-# 3. In the "Skills" section, rename each "keywords:" key to  "details:" 
+# 2. Under "cv:" root, remove the entire "address:" block, if present.
+# 2. In the "Skills:" section, rename each "- name:" key to  "- label:" 
+# 3. In the "Skills:" section, rename each "keywords:" key to  "details:" 
+# 3. In the "Experience:" section, remove hyperlink tags from each company name string and highlight item.
+# 3. In the "Experience:" section, edit the "Early Career" kludge as follows:
+#     - company: "Early Career"
+#       position: ""
+#       location:
+#===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===
 
 cv:
   name: Joe Sandmeyer
@@ -19,13 +26,6 @@ cv:
       username: +1 209-586-9492
     - network: LinkedIn
       username: joesandmeyer
-
-  address:
-    street: 4314 Clagett Road
-    city: University Park
-    region:
-    postalCode: MD 20782
-    countryCode: US
 
   sections:
     Skills:
@@ -110,17 +110,17 @@ cv:
           - Served as technical point of contact between clients and partners
           - "*Stack: JavaScript/jQuery front end prototypes for partners, web crawl & scrape tools*"
 
-      - company: "<a href='https://en.wikipedia.org/wiki/OpenFeint'><u>GREE / OpenFeint</u></a>"
+      - company: "<a href='https://www.openfeint.com/'><u>GREE / OpenFeint</u></a>"
         position: Director, Sales Engineering
         location: San Francisco, CA
         start_date: 2009-10
         end_date: 2012-12
         highlights:
           - Integrated the OpenFeint mobile game backend SDKs into mobile games for partners
-          - Built and led a 10 person Sales Engineering team to promote and support SDKs used by thousands of developers in mobile games for over 25M end users.
+          - Built and led a 10 person Sales Engineering team to promote and support SDKs used by thousands of developers in mobile games for over 100M end users.
           - "*Stack: Objective-C (iOS), Java (Android)*"
 
-      - company:
+      - company: ""
         position: "Early Career"
         location:
         start_date: 1986
@@ -128,7 +128,7 @@ cv:
         highlights:
           - "**AI & Systems Developer — Brainpool** *(2007–2009):* Natural-language–driven behavior AI for animated characters"
           - "**Independent Contractor (Glu Mobile, Atlas Telecom Mobile, FingerTwitch, Sennari)** *(2002–2007):* Brew / J2ME mobile game development; gameplay and game AI"
-          - "**3D & Game AI Engineer — 3DO Company** *(1997–2003):* Gameplay, animation control, physics simulation, spatial DB, pathfinding, tactical maneuver control and behavioral AI across the *BattleTanx* trilogy, *High Heat Baseball*, and two unreleased titles"
+          - "**3D & Game AI Engineer — 3DO Company** *(1997–2003):* Gameplay, animation control, physics simulation, spatial DB, pathfinding, tactical maneuver control and behavioral AI across the *BattleTanx* trilogy, *High Heat Baseball*, *Army Men *, and two unreleased titles"
           - "**CTO — Talkie, Inc.** *(1997–2001):* Built and led the founding engineering team"
           - "**3D & Game AI Engineer — Virgin Interactive Entertainment** *(1994–1997):* 3D world builder, scripting engine, game AI (*Grand Slam* baseball)"
           - "**Earlier roles** — Jostens Learning, Berkeley Systems (adaptive software for users with disabilities), <a href='https://en.wikipedia.org/wiki/MacDraft'><u>MacDraft</u>CAD for Mac</a>, 1986 (UI, rendering, and file serialization code)"

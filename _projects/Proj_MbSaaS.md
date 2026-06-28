@@ -26,7 +26,7 @@ supported SDKs enabling other developers to integrate our SaaS services into the
 iOS and Android apps and games.
 <br><br>
 The first of these roles was with
-<a href='https://en.wikipedia.org/wiki/OpenFeint'><u>OpenFeint</u></a>,
+<a href='https://www.openfeint.com/'><u>OpenFeint</u></a>,
 a service that made it easy to add competitive and social elements to mobile games.
 At first, I worked alone or alongside a salesperson to reach out to game developers
 and get them to let me integrate our SDKs into a branch of their source code for free.
