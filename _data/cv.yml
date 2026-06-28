@@ -20,7 +20,8 @@ cv:
   email: joe.sandmeyer@gmail.com
   website: https://JoeSandmeyer.com/
   location: Washington DC Metro Area
-  summary: "Developer Relations / Developer Experience / Solutions Engineering"
+  summary: >
+    Developer Relations - Developer Experience - Solutions Engineering
   headline: Developer Relations / Developer Experience / Solutions Engineering
 
   social_networks:
@@ -43,7 +44,8 @@ cv:
         keywords:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
     Experience:
-      - company: "_ [Data Annotation](https://dataannotation.tech/about-us) _"
+      - company: >
+          [Data Annotation](https://dataannotation.tech/about-us)
         position: AI Model Trainer
         location: Washington DC
         start_date: 2024-03
