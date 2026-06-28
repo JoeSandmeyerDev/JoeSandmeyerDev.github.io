@@ -2,13 +2,13 @@
 # How to convert from al-folio's cv.yml:
 # 1. Duplicate al-folio's cv.yml, rename it to cv-rendercv.yml, and make the following changes to the copy.
 # 2. Under "cv:" root, rename the "summary:" key to  "headline:".
-# 2. Under "cv:" root, remove the entire "address:" block, if present.
-# 2. In the "Skills:" section, rename each "- name:" key to  "- label:" 
-# 3. In the "Skills:" section, rename each "keywords:" key to  "details:" 
-# 3. In the "Experience:" section, remove any html angle bracket tags.
+# 3. Under "cv:" root, remove the entire "address:" block, if present.
+# 4. In the "Skills:" section, rename each "- name:" key to  "- label:" 
+# 5. In the "Skills:" section, rename each "keywords:" key to  "details:" 
+# 6. In the "Experience:" section, remove any html angle bracket tags.
 #     - Note that it is ok to replace html anchor tags with "[]()" markdown syntax
 #       for links embedded within double quoted string text fields.
-# 3. In the "Experience:" section, edit the "Early Career" kludge as follows:
+# 7. In the "Experience:" section, edit the "Early Career" kludge as follows:
 #     - company: "Early Career"
 #       position: ""
 #       location:
@@ -21,7 +21,7 @@ cv:
   website: https://JoeSandmeyer.com/
   location: Washington DC Metro Area
   # headline: Developer Relations / Developer Experience / Solutions Engineering
-  summary:
+  # summary:
   social_networks:
     - network: WhatsApp
       username: +1 209-586-9492

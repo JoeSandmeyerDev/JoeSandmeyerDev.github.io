@@ -1,3 +1,19 @@
+#===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===
+# How to convert from al-folio's cv.yml:
+# 1. Duplicate al-folio's cv.yml, rename it to cv-rendercv.yml, and make the following changes to the copy.
+# 2. Under "cv:" root, rename the "summary:" key to  "headline:".
+# 3. Under "cv:" root, remove the entire "address:" block, if present.
+# 4. In the "Skills:" section, rename each "- name:" key to  "- label:" 
+# 5. In the "Skills:" section, rename each "keywords:" key to  "details:" 
+# 6. In the "Experience:" section, remove any html angle bracket tags.
+#     - Note that it is ok to replace html anchor tags with "[]()" markdown syntax
+#       for links embedded within double quoted string text fields.
+# 7. In the "Experience:" section, edit the "Early Career" kludge as follows:
+#     - company: "Early Career"
+#       position: ""
+#       location:
+#===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===-===
+
 cv:
   name: Joe Sandmeyer
   # label: SaaS DevRel Expert
@@ -26,7 +42,57 @@ cv:
         details:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
     Experience:
-      - company: "Fyber"
+      - company: "[Data Annotation](https://dataannotation.tech/about-us)"
+        position: AI Model Trainer
+        location: Washington DC
+        start_date: 2024-03
+        end_date: present
+        highlights:
+          - Diagnosed and reported flaws in AI generated code (part-time)
+          - Built small projects to challenge tool-using agentic AI models
+          - "*Stack: Python, JavaScript*"
+        
+      - company: "[Yellow Dog Software](https://www.yellowdogsoftware.com/)"
+        position: Developer Relations Manager
+        location: Washington DC
+        start_date: 2024-07
+        end_date: 2026-04
+        highlights:
+          - Guided third-party POS developers integrating with Yellow Dog's inventory platform via REST API.
+          - "Authored and maintained external [developer documentation](https://developer.yellowdogsoftware.com/rest/user-guide) and reference sample code."
+          - "*Stack: C#, JavaScript, SQL*"
+
+      - company: "[Vatom.com](https://vatom.com/)"
+        position: Developer Relations Lead
+        location: Washington DC
+        start_date: 2022-11
+        end_date: 2024-07
+        highlights:
+          - "Owned [developer-facing documentation](https://developer.vatom.com/) and sample code for Web3 SDKs, APIs, and tooling covering identity, wallets, and 3D virtual spaces."
+          - "Directly contributed to code repositories of enterprise parters enabling dozens of brand engagement campaigns reaching thousands of customers."
+          - "*Stack: TypeScript, JavaScript, React*"
+
+      - company: "[National Conference on Citizenship](https://ncoc.org/) / [Algorithmic Transparency Institute](https://ati.io/)"
+        position: Technical Project Manager
+        location: Washington DC
+        start_date: 2022-02
+        end_date: 2023-01
+        highlights:
+          - "Managed remote software work on ETL pipelines and the Junkipedia disinformation-tracking platform."
+          - "Maintained [API documentation](https://docs.junkipedia.org/reference-material/api) for external developers."
+          - "*Stack: Python, Ruby on Rails, Elasticsearch, AWS*"
+
+      - company: "[Castle.io](https://Castle.io/)"
+        position: Director of Developer Relations
+        location: San Francisco, CA
+        start_date: 2019-01
+        end_date: 2021-03
+        highlights:
+          - Led Developer Experience (SDKs, tools, docs, technical escalations) and pre/post-sales engineering for a bot/fraud detection platform
+          - "Built Soc 2 controls and answered enterprise client InfoSec questionnaires."
+          - "*Stack: JavaScript, Cloudflare Workers*"
+
+      - company: "Fyber (acquired by [digitalturbine.com](https://www.digitalturbine.com/)"
         position: Head of Solutions Engineering, North America
         location: San Francisco, CA
         start_date: 2015-03
@@ -35,7 +101,7 @@ cv:
           - Built and ran Solutions Engineering teams in San Francisco and Beijing supporting ~10,000 publishers reaching ~1.2B monthly active users across 180 countries.
           - "*Stack: Objective-C (iOS), Java (Android)*"
           
-      - company: "Quixey"
+      - company: "[Quixey](https://en.wikipedia.org/wiki/Quixey)"
         position: Developer Relations, Technical Director
         location: Mountain View, CA
         start_date: 2013-07
@@ -44,6 +110,16 @@ cv:
           - Promoted the AppURL deep-linking standard
           - Served as technical point of contact between clients and partners
           - "*Stack: JavaScript/jQuery front end prototypes for partners, web crawl & scrape tools*"
+
+      - company: "[GREE / OpenFeint](https://www.openfeint.com/)"
+        position: Director, Sales Engineering
+        location: San Francisco, CA
+        start_date: 2009-10
+        end_date: 2012-12
+        highlights:
+          - Integrated the OpenFeint mobile game backend SDKs into mobile games for partners
+          - Built and led a 10 person Sales Engineering team to promote and support SDKs used by thousands of developers in mobile games for over 100M end users.
+          - "*Stack: Objective-C (iOS), Java (Android)*"
 
       - company: "Early Career"
         position: ""
@@ -56,6 +132,7 @@ cv:
           - "**3D & Game AI Engineer — 3DO Company** *(1997–2003):* Gameplay, animation control, physics simulation, spatial DB, pathfinding, tactical maneuver control and behavioral AI across the *BattleTanx* trilogy, *High Heat Baseball*, *Army Men *, and two unreleased titles"
           - "**CTO — Talkie, Inc.** *(1997–2001):* Built and led the founding engineering team"
           - "**3D & Game AI Engineer — Virgin Interactive Entertainment** *(1994–1997):* 3D world builder, scripting engine, game AI (*Grand Slam* baseball)"
+          - "**Earlier roles** — Jostens Learning, Berkeley Systems (adaptive software for users with disabilities), [MacDraft](https://en.wikipedia.org/wiki/MacDraft), 1986 (UI, rendering, and file serialization code)"
 
     Education:
       - institution: University of California, San Diego
