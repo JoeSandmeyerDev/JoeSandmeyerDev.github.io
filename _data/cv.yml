@@ -41,7 +41,7 @@ cv:
         keywords:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
     Experience:
-      - company: "<a href='https://dataannotation.tech/about-us'><u>Data Annotation</u></a>"
+      - company: "[Data Annotation](https://dataannotation.tech/about-us)"
         position: AI Model Trainer
         location: Washington DC
         start_date: 2024-03
