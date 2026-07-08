@@ -43,12 +43,12 @@ cv:
     Experience:
       - company: "<a href='https://dataannotation.tech/about-us'><u>Data Annotation</u></a>"
         # "[Data Annotation](https://dataannotation.tech/about-us)"
-        position: AI Model Trainer
+        position: AI Model Trainer (part-time)
         location: Washington DC
         start_date: 2024-03
         end_date: present
         highlights:
-          - Project based trainer for agentic AI models generating software and business logic (part-time).
+          - Project based trainer for agentic AI models generating software and business logic.
           - "*Stack: Python, JavaScript*"
         
       - company: "<a href='https://www.yellowdogsoftware.com/'><u>Yellow Dog Software</u></a>"
