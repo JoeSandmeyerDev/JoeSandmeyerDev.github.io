@@ -16,11 +16,10 @@
 
 cv:
   name: Joe Sandmeyer
-  # label: SaaS DevRel Expert
+  headline: Developer Relations / Developer Experience / Solutions Engineering
   email: joe.sandmeyer@gmail.com
   website: https://JoeSandmeyer.com/
   location: Washington DC Metro Area
-  headline: Developer Relations / Developer Experience / Solutions Engineering
 
   social_networks:
     - network: WhatsApp
@@ -35,21 +34,20 @@ cv:
       - label: Web & Cloud
         details: "React, Node.js, Cloudflare Workers (serverless edge), AWS, Elasticsearch"
       - label: APIs & Integration
-        details: "REST/JSON:API, OAuth 2.0, OpenAPI, webhook/event integrations, SDK design"
+        details: "REST APIs, webhooks, OAuth 2.0, OpenAPI 3.1, JSON schemas, SDK design"
       - label: Domains
-        details:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, Agentic AI, Vector Relevance Sorting, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration, Project Management"
+        details:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, Agentic AI, Vector Relevance Sorting, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration, Project Management, leading and recruiting engineering teams"
       - label: Craft
         details:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
     Experience:
       - company: "[Data Annotation](https://dataannotation.tech/about-us)"
-        position: AI Model Trainer
+        position: AI Model Trainer (part-time)
         location: Washington DC
         start_date: 2024-03
         end_date: present
         highlights:
-          - Diagnosed and reported flaws in AI generated code (part-time)
-          - Built small projects to challenge tool-using agentic AI models
+          - Project based trainer for agentic AI models generating software and business logic.
           - "*Stack: Python, JavaScript*"
         
       - company: "[Yellow Dog Software](https://www.yellowdogsoftware.com/)"
@@ -59,7 +57,7 @@ cv:
         end_date: 2026-04
         highlights:
           - Guided third-party POS developers integrating with Yellow Dog's inventory platform via REST API.
-          - "Authored and maintained external [developer documentation](https://developer.yellowdogsoftware.com/rest/user-guide) and reference sample code."
+          - "Created a self service developer experience by building and maintaining [Yellow Dog's developer portal site](https://developer.yellowdogsoftware.com/rest/user-guide) to host reference materials, tutorials, and sample code."
           - "*Stack: C#, JavaScript, SQL*"
 
       - company: "[Vatom.com](https://vatom.com/)"
@@ -72,7 +70,7 @@ cv:
           - "Directly contributed to code repositories of enterprise parters enabling dozens of brand engagement campaigns reaching thousands of customers."
           - "*Stack: TypeScript, JavaScript, React*"
 
-      - company: "[National Conference on Citizenship](https://ncoc.org/) / [Algorithmic Transparency Institute](https://ati.io/)"
+      - company: "[NCOC.org](https://ncoc.org/) / [Algorithmic Transparency Institute](https://ati.io/)"
         position: Technical Project Manager
         location: Washington DC
         start_date: 2022-02

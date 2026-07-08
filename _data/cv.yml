@@ -16,12 +16,11 @@
 
 cv:
   name: Joe Sandmeyer
-  # label: SaaS DevRel Expert
+  # headline: Developer Relations / Developer Experience / Solutions Engineering
+  summary: Developer Relations / Developer Experience / Solutions Engineering
   email: joe.sandmeyer@gmail.com
   website: https://JoeSandmeyer.com/
   location: Washington DC Metro Area
-  # headline: Developer Relations / Developer Experience / Solutions Engineering
-  summary: Developer Relations / Developer Experience / Solutions Engineering
   social_networks:
     - network: WhatsApp
       username: +1 209-586-9492
@@ -35,9 +34,9 @@ cv:
       - name: Web & Cloud
         keywords: "React, Node.js, Cloudflare Workers (serverless edge), AWS, Elasticsearch"
       - name: APIs & Integration
-        keywords: "REST/JSON:API, OAuth 2.0, OpenAPI, webhook/event integrations, SDK design"
+        keywords: "REST APIs, webhooks, OAuth 2.0, OpenAPI 3.1, JSON schemas, SDK design"
       - name: Domains
-        keywords:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, Agentic AI, Vector Relevance Sorting, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration, Project Management"
+        keywords:  "Developer Relations, Solutions / Pre- & Post-Sales Engineering, Agentic AI, Vector Relevance Sorting, 3D graphics and game AI, mobile (iOS / Android), Web3 (wallets, identity, NFTs), POS / inventory integration, Project Management, leading and recruiting engineering teams"
       - name: Craft
         keywords:  "Technical writing, sample code, code review, mentoring, cross-functional and offshore team leadership"
 
@@ -49,8 +48,7 @@ cv:
         start_date: 2024-03
         end_date: present
         highlights:
-          - Diagnosed and reported flaws in AI generated code (part-time)
-          - Built small projects to challenge tool-using agentic AI models
+          - Project based trainer for agentic AI models generating software and business logic (part-time).
           - "*Stack: Python, JavaScript*"
         
       - company: "<a href='https://www.yellowdogsoftware.com/'><u>Yellow Dog Software</u></a>"
@@ -61,7 +59,7 @@ cv:
         end_date: 2026-04
         highlights:
           - Guided third-party POS developers integrating with Yellow Dog's inventory platform via REST API.
-          - "Authored and maintained external [developer documentation](https://developer.yellowdogsoftware.com/rest/user-guide) and reference sample code."
+          - "Created a self service developer experience by building and maintaining [Yellow Dog's developer portal site](https://developer.yellowdogsoftware.com/rest/user-guide) to host reference materials, tutorials, and sample code."
           - "*Stack: C#, JavaScript, SQL*"
 
       - company: "<a href='https://vatom.com/'><u>Vatom.com</u></a>"
@@ -75,8 +73,8 @@ cv:
           - "Directly contributed to code repositories of enterprise parters enabling dozens of brand engagement campaigns reaching thousands of customers."
           - "*Stack: TypeScript, JavaScript, React*"
 
-      - company: "<a href='https://ncoc.org/'><u>National Conference on Citizenship</u></a>"
-        # "[National Conference on Citizenship](https://ncoc.org/) / [Algorithmic Transparency Institute](https://ati.io/)"
+      - company: "<a href='https://ncoc.org/'><u>NCOC.org</u></a> / <a href='https://ati.io/'><u>Algorithmic Transparency Institute</u></a>"
+        # "[NCOC.org](https://ncoc.org/) / [Algorithmic Transparency Institute](https://ati.io/)"
         position: Technical Project Manager
         location: Washington DC
         start_date: 2022-02
